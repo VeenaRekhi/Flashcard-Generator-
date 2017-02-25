@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "flashcards",
+  "main": "flashcard.js",
+  "scripts": {
+    "test": "node "
+  },
+  "repository": {
+    "type": "git",
+    "url": "Flashcard-Generator"
+  },
+  "keywords": [
+    "flashcard"
+  ],
+  "author": "Veena Rekhi",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}
